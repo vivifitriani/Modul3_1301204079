@@ -1,0 +1,55 @@
+body {
+    background-color:peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: maroon;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+}
+h2{
+    color: maroon;
+    font-weight: bolder;
+    font-size: 15px;
+    text-align: Left;
+}
+h3{
+    color: maroon;
+    font-weight: bolder;
+    font-size: 15px;
+    text-align: Right;
+}
+h4{
+    margin: 10px 5px 10px 5px;
+    color:maroon;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    list-style-type:lower-roman;
+    list-style-position:inside;
+}
+Ul{
+    background-color: palevioletred;
+    margin: 10px 5px 10px 5px;
+    list-style-type:lower-roman;
+    list-style-position:inside;
+
+}
+ol{
+    background-color: pink;
+    list-style-type:lower-alpha; 
+    padding:5px 5px 15px 15px;
+    list-style-position:inside;
+}
+.skin{
+    background-color:mediumorchid;
+    font-style:italic; 
+    font-weight:bold;
+    }
+.keterangan{
+    background-color: plum;
+    font-style: italic;
+    font-weight: bold;
+    }
+    
